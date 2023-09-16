@@ -1,0 +1,17 @@
+---
+object: set
+id: 5ba81c6d-2344-4760-bb13-b7276205e73e
+code: p04
+name: Magic Player Rewards 2004
+uri: https://api.scryfall.com/sets/5ba81c6d-2344-4760-bb13-b7276205e73e
+scryfall_uri: https://scryfall.com/sets/p04
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap04&unique=prints
+released_at: '2004-01-01'
+set_type: promo
+card_count: 6
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: mpr
+block: Magic Player Rewards
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800

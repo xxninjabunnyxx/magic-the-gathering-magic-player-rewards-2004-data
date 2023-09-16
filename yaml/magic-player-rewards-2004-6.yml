@@ -1,0 +1,218 @@
+---
+object: card
+id: 46b60d95-b9bc-40f8-b986-bfa8e3eb74f3
+oracle_id: 6a7a9dff-ff9e-4005-a17f-6ea0c11c1d5a
+multiverse_ids: []
+tcgplayer_id: 78633
+name: Spirit
+lang: en
+released_at: '2004-01-01'
+uri: https://api.scryfall.com/cards/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3
+scryfall_uri: https://scryfall.com/card/p04/6/spirit?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg?1561757037
+  normal: https://cards.scryfall.io/normal/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg?1561757037
+  large: https://cards.scryfall.io/large/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg?1561757037
+  png: https://cards.scryfall.io/png/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.png?1561757037
+  art_crop: https://cards.scryfall.io/art_crop/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg?1561757037
+  border_crop: https://cards.scryfall.io/border_crop/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg?1561757037
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Spirit
+oracle_text: ''
+power: '1'
+toughness: '1'
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: 16fcc1a2-f8e0-4126-81ef-4481985cf0bf
+  component: combo_piece
+  name: One with the Kami
+  type_line: Enchantment — Aura
+  uri: https://api.scryfall.com/cards/16fcc1a2-f8e0-4126-81ef-4481985cf0bf
+- object: related_card
+  id: 9883e973-54c3-4bec-91d8-22f2829cdfa2
+  component: combo_piece
+  name: Sekki, Seasons' Guide
+  type_line: Legendary Creature — Spirit
+  uri: https://api.scryfall.com/cards/9883e973-54c3-4bec-91d8-22f2829cdfa2
+- object: related_card
+  id: 4e9e42ed-7b7a-4fd7-8528-4b5f23b0ddb7
+  component: combo_piece
+  name: Release to Memory
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/4e9e42ed-7b7a-4fd7-8528-4b5f23b0ddb7
+- object: related_card
+  id: c4e4866e-13a8-4130-9895-60e762b7efea
+  component: combo_piece
+  name: Spiritual Visit
+  type_line: Instant — Arcane
+  uri: https://api.scryfall.com/cards/c4e4866e-13a8-4130-9895-60e762b7efea
+- object: related_card
+  id: 0b79b30e-e7aa-490e-b130-de7533e6e13b
+  component: combo_piece
+  name: Searchlight Companion
+  type_line: Artifact Creature — Drone
+  uri: https://api.scryfall.com/cards/0b79b30e-e7aa-490e-b130-de7533e6e13b
+- object: related_card
+  id: 0ab91962-ebad-46f6-9f90-7477c224d93d
+  component: combo_piece
+  name: Go-Shintai of Shared Purpose
+  type_line: Legendary Enchantment Creature — Shrine
+  uri: https://api.scryfall.com/cards/0ab91962-ebad-46f6-9f90-7477c224d93d
+- object: related_card
+  id: a40e9071-7b27-4070-bc3a-c095c2128953
+  component: combo_piece
+  name: Promise of Bunrei
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/a40e9071-7b27-4070-bc3a-c095c2128953
+- object: related_card
+  id: 46b60d95-b9bc-40f8-b986-bfa8e3eb74f3
+  component: token
+  name: Spirit
+  type_line: Token Creature — Spirit
+  uri: https://api.scryfall.com/cards/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3
+- object: related_card
+  id: e752b762-38b7-463c-aa09-37fecfe71a53
+  component: combo_piece
+  name: Dripping-Tongue Zubera
+  type_line: Creature — Zubera Spirit
+  uri: https://api.scryfall.com/cards/e752b762-38b7-463c-aa09-37fecfe71a53
+- object: related_card
+  id: 81e1dbb8-3df8-4e7e-b74b-baab7d6f97c1
+  component: combo_piece
+  name: Baku Altar
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/81e1dbb8-3df8-4e7e-b74b-baab7d6f97c1
+- object: related_card
+  id: 4d83e837-fcd1-4833-9117-e6f1bb53caad
+  component: combo_piece
+  name: Akki Ember-Keeper
+  type_line: Enchantment Creature — Goblin Warrior
+  uri: https://api.scryfall.com/cards/4d83e837-fcd1-4833-9117-e6f1bb53caad
+- object: related_card
+  id: 003b8c93-54d2-4f23-961e-a52d63d0a54b
+  component: combo_piece
+  name: The Restoration of Eiganjo // Architect of Restoration
+  type_line: Enchantment — Saga // Enchantment Creature — Fox Monk
+  uri: https://api.scryfall.com/cards/003b8c93-54d2-4f23-961e-a52d63d0a54b
+- object: related_card
+  id: 84241b2e-fed0-4bf4-8a1c-4d1814c2eb8b
+  component: combo_piece
+  name: Honden of Life's Web
+  type_line: Legendary Enchantment — Shrine
+  uri: https://api.scryfall.com/cards/84241b2e-fed0-4bf4-8a1c-4d1814c2eb8b
+- object: related_card
+  id: bdc33a21-d196-4c17-a296-87ff08e7ef69
+  component: combo_piece
+  name: Gods' Eye, Gate to the Reikai
+  type_line: Legendary Land
+  uri: https://api.scryfall.com/cards/bdc33a21-d196-4c17-a296-87ff08e7ef69
+- object: related_card
+  id: c453026f-8a63-46f5-8b7a-720e0ec95858
+  component: combo_piece
+  name: Concord with the Kami
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/c453026f-8a63-46f5-8b7a-720e0ec95858
+- object: related_card
+  id: 7ebf2cde-788d-4b38-8d24-fdb113943d0c
+  component: combo_piece
+  name: Myojin of Blooming Dawn
+  type_line: Legendary Creature — Spirit
+  uri: https://api.scryfall.com/cards/7ebf2cde-788d-4b38-8d24-fdb113943d0c
+- object: related_card
+  id: e2b6a2df-35cc-4d4b-b50b-99ef33678346
+  component: combo_piece
+  name: Sokenzan, Crucible of Defiance
+  type_line: Legendary Land
+  uri: https://api.scryfall.com/cards/e2b6a2df-35cc-4d4b-b50b-99ef33678346
+- object: related_card
+  id: 8454624b-58bc-47c8-b0e6-6d4f0931a1ad
+  component: combo_piece
+  name: Teachings of the Kirin // Kirin-Touched Orochi
+  type_line: Enchantment — Saga // Enchantment Creature — Snake Monk
+  uri: https://api.scryfall.com/cards/8454624b-58bc-47c8-b0e6-6d4f0931a1ad
+- object: related_card
+  id: 63ddaebd-0b8d-4040-854c-cf31a1daa850
+  component: combo_piece
+  name: Forbidden Orchard
+  type_line: Land
+  uri: https://api.scryfall.com/cards/63ddaebd-0b8d-4040-854c-cf31a1daa850
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 5ba81c6d-2344-4760-bb13-b7276205e73e
+set: p04
+set_name: Magic Player Rewards 2004
+set_type: promo
+set_uri: https://api.scryfall.com/sets/5ba81c6d-2344-4760-bb13-b7276205e73e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap04&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p04?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6a7a9dff-ff9e-4005-a17f-6ea0c11c1d5a&unique=prints
+collector_number: '6'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Hugh Jamieson
+artist_ids:
+- ae735af7-4895-45e0-aeb5-58c82343942e
+illustration_id: a24db34c-adab-42ae-865d-1df62e1bd221
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- playerrewards
+prices:
+  usd: '24.80'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spirit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spirit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spirit
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78633?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spirit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spirit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
